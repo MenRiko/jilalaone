@@ -1,13 +1,13 @@
 {
    "AdsManager":{
-      "adNetwork" :"admob",
+      "adNetwork" :"facebook",
       "interstitial_admob":"ca-app-pub-9322101337669156/9858874228",
       "banner_admob":"ca-app-pub-9322101337669156/9336678787",
       "native_admob":"ca-app-pub-9322101337669156/4606547546",
 
-      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
-      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
-      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+      "interstitial_fan":"1955199254612759_1955201264612558",
+      "banner_fan":"1955199254612759_1955200221279329",
+      "native_fan":"1955199254612759_3028363723962968"
    },
    "Songs" :[
       {
